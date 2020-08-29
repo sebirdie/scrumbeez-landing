@@ -16767,3 +16767,22 @@ Download Two
 		display: block;
 	}
 }
+
+/* Mods By MP */
+
+.site-header.header-nine.header_trans-fixed .site-mobile-logo a.logo{
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 0;
+}
+
+.site-header.header-nine.header_trans-fixed .site-logo a.logo{
+	color: black;
+	font-weight: bold;
+}
+
+.footer-marketing .footer-inner .widget.footer-widget.widget-about a {
+	color: black;
+	font-weight: bold;
+}
